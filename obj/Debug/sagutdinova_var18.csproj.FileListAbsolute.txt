@@ -1,0 +1,7 @@
+C:\sagutdinova_var18\bin\Debug\sagutdinova_var18.exe.config
+C:\sagutdinova_var18\bin\Debug\sagutdinova_var18.exe
+C:\sagutdinova_var18\bin\Debug\sagutdinova_var18.pdb
+C:\sagutdinova_var18\obj\Debug\sagutdinova_var18.csproj.AssemblyReference.cache
+C:\sagutdinova_var18\obj\Debug\sagutdinova_var18.csproj.CoreCompileInputs.cache
+C:\sagutdinova_var18\obj\Debug\sagutdinova_var18.exe
+C:\sagutdinova_var18\obj\Debug\sagutdinova_var18.pdb
